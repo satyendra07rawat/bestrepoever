@@ -1,0 +1,8 @@
+{
+    "orgName": "Salesforce DX Satya",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"],
+		"disabled":[]
+    }
+}
